@@ -1,0 +1,7 @@
+[package]
+name = "etch-hash-crack"
+version = "0.1.0"
+authors = ["Walter Huf <hufman@gmail.com>"]
+
+[dependencies]
+etch-hash = { git = "https://github.com/hufman/etch-hash-rs.git" }

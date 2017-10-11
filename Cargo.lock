@@ -1,0 +1,14 @@
+[root]
+name = "etch-hash-crack"
+version = "0.1.0"
+dependencies = [
+ "etch-hash 0.1.0 (git+https://github.com/hufman/etch-hash-rs.git)",
+]
+
+[[package]]
+name = "etch-hash"
+version = "0.1.0"
+source = "git+https://github.com/hufman/etch-hash-rs.git#b3734f7deafd887086379e9050c5c195394e6566"
+
+[metadata]
+"checksum etch-hash 0.1.0 (git+https://github.com/hufman/etch-hash-rs.git)" = "<none>"
